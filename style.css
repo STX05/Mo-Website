@@ -1,7 +1,10 @@
 #Greeting{
      font-family: "Zain", sans-serif;
     font-size: 4em;
-    color:antiquewhite
+    color:antiquewhite;
+    text-shadow: 1px 4px 7px black , -1px -1px 7px beige;
+    margin-left: 650px;
+    margin-top: 50px ;
 }
 .title{
     font-family: "Zain", sans-serif;
@@ -10,9 +13,25 @@
 }
 
 body{
-background-color:#78939e
+background-image: url(https://htmlcolorcodes.com/assets/images/colors/charcoal-color-solid-background-1920x1080.png);
 }
 
 #About{
+    margin-left: 25px;
     color: antiquewhite;
+}
+
+#abt1{
+     margin-left: 25px;
+    color: antiquewhite;
+}
+
+#Info{
+    display:block;
+    width: 150px;
+    height: 500px;
+    border: 2px;
+    margin-left: 550px;
+    padding: 25px;
+    background-color: #007ea7;
 }
